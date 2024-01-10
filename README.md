@@ -1,5 +1,5 @@
 ## Run Frontend
-&nbsp;&nbsp;&nbsp;&nbsp;> <code>cd frontend</code>
+&nbsp;&nbsp;&nbsp;&nbsp;> <code>cd client</code>
 &nbsp;&nbsp;&nbsp;&nbsp;> <code>npm install</code>
 &nbsp;&nbsp;&nbsp;&nbsp;> <code>npm start</code>       
 
